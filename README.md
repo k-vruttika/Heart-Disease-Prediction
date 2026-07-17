@@ -104,16 +104,6 @@ streamlit run app.py
 
 ---
 
-## Sample Screenshots
-
-Add screenshots of:
-
-- Home Page
-- EDA Dashboard
-- Prediction Page
-- Prediction Result
-
----
 
 ## Future Improvements
 
