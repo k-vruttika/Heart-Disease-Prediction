@@ -60,8 +60,7 @@ Heart-Disease-Prediction/
 ├── app.py
 ├── heart.csv
 ├── requirements.txt
-├── README.md
-└── screenshots/
+└── README.md
 ```
 
 ---
